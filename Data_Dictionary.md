@@ -4,7 +4,7 @@
 
 The data for this project consist of two files:
 
-- Udacity_AZDIAS_Subset.csv: demographics data for the general population of
+- Udacity_AZDIS_Subset.csv: demographics data for the general population of
       Germany; 891211 persons (rows) x 85 features (columns)
 - Udacity_CUSTOMERS_Subset.csv: demographics data for customers of a mail-order
       company; 191652 persons (rows) x 85 features (columns)
@@ -12,7 +12,7 @@ The data for this project consist of two files:
 The columns in the general demographics file and customers data file are the
 same. This file documents the features that appear in the data files, sorted in
 order of appearance. Sections of this file is based on the level of measurement
-of each feature. The file "AZDIAS_Feature_Summary.csv" contains a summary of
+of each feature. The file "AZDIS_Feature_Summary.csv" contains a summary of
 feature attributes, including information level, data type, and codes for
 missing or unknown values.
 
